@@ -1,2 +1,1 @@
-# se-mc310
-CODE
+# Implemented a Hospital Management System
